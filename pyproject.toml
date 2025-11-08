@@ -1,0 +1,22 @@
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "agno>=2.2.6",
+    "anthropic>=0.72.0",
+    "bandit>=1.8.6",
+    "ddgs>=9.7.0",
+    "dnspython>=2.8.0",
+    "duckduckgo-search>=8.1.1",
+    "google-genai>=1.47.0",
+    "google-generativeai>=0.8.5",
+    "julia-browser>=1.17.1",
+    "litellm>=1.79.1",
+    "mcp>=1.21.0",
+    "openai>=2.6.1",
+    "paramiko>=4.0.0",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+    "rich>=14.2.0",
+    "semgrep>=1.85.0",
+    "sqlalchemy>=2.0.44",
+]
